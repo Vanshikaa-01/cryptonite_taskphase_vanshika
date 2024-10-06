@@ -1,6 +1,6 @@
-# cryptonite_taskphase_vanshika
-## Module 1: Hello Hackers
-### Challenge 1
+
+# Module 1: Hello Hackers
+## Challenge 1
 * connected ssh key to the pwn college
 * then executed the hello command and updated to pwn college
 * after that we got the flag
