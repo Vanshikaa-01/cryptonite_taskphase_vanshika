@@ -4,3 +4,17 @@
 * invoked the pwn program using its absolute path i.e '/'
 * got the flag and updated to pwn college
 * pwn.college{YVfJ5HD3p5t5rVnxOH7PO_1y7mv.dhzN5QDLygzN0czW} 
+
+## Challenge 2
+* connected ssh key to the pwn college
+* executed the run file whixh was in the challenge directory that is, in turn, in the / directory
+* got the flag and updated to pwn college
+* pwn.college{QLx-kGiWjOvqp__ui3bIBF6sdt7.dVDN1QDLygzN0czW}
+
+## Challenge 3
+*  connected ssh key to the pwn college
+* executed the /challenge/run program
+* used 'cd' utility to change directory 
+* rerunned the challenge program
+* got the flag and updated to pwn college
+* pwn.college{Qui1KnhK1oB6hjqs7yjH8mzc0cV.dZDN1QDLygzN0czW}
