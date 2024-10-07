@@ -2,4 +2,5 @@
 ## Challenge 1
 * connected ssh key to the pwn college
 * invoked the pwn program using its absolute path i.e '/'
-* 
+* got the flag and updated to pwn college
+* pwn.college{YVfJ5HD3p5t5rVnxOH7PO_1y7mv.dhzN5QDLygzN0czW} 
