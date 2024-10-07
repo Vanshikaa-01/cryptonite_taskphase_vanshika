@@ -12,9 +12,27 @@
 * pwn.college{QLx-kGiWjOvqp__ui3bIBF6sdt7.dVDN1QDLygzN0czW}
 
 ## Challenge 3
-*  connected ssh key to the pwn college
+* connected ssh key to the pwn college
 * executed the /challenge/run program
 * used 'cd' utility to change directory 
 * rerunned the challenge program
 * got the flag and updated to pwn college
 * pwn.college{Qui1KnhK1oB6hjqs7yjH8mzc0cV.dZDN1QDLygzN0czW}
+
+## Challenge 4
+* connected ssh key to the pwn college
+* executed the /challenge/run program
+* used 'cd' utility to change directory from a specific path which was told 
+* rerunned the challenge program
+* got the flag and updated to pwn college
+* pwn.college{4KiL0iGKJHx31EGYqom0cLEao0z.ddDN1QDLygzN0czW}
+
+## Challenge 5
+* connected ssh key to the pwn college
+* executed the /challenge/run program
+* used 'cd' utility to change directory from a specific path which was told 
+* rerunned the challenge program
+* got the flag and updated to pwn college
+* pwn.college{4ZAjgTvUhybCHMtl3jwUCLioW2T.dhDN1QDLygzN0czW}
+
+
