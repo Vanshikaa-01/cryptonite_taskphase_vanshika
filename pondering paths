@@ -35,4 +35,28 @@
 * got the flag and updated to pwn college
 * pwn.college{4ZAjgTvUhybCHMtl3jwUCLioW2T.dhDN1QDLygzN0czW}
 
+## Challenge 6
+* connected ssh key to the pwn college
+* invoked the directory
+* executed the /challenge/run program
+* got the flag and updated to pwn college
+* pwn.college{kHb47oJnMeJHrV1Qulg67BzLyTv.dlDN1QDLygzN0czW}
+
+## Challenge 7
+* connected ssh key to the pwn college
+* invoked the directory
+* executed the /challenge/run program using relative path
+* got the flag and updated to pwn college
+* pwn.college{sY4KkgMWMrs3aF4susvuoUJX9hB.dBTN1QDLygzN0czW}
+
+
+
+
+
+
+
+
+
+
+
 
