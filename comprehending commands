@@ -29,6 +29,24 @@
 * got the flag
 * pwn.college{kaTK_Dc-lI2TawOwx9EfjtqW7OQ.ddTM4QDLygzN0czW}
 
+## Challenge 5
+* used 'ls' command to list the everything in the home directory
+* used the same command with absolute path '/challenge'
+* got the flag
+* pwn.college{M54toQkLATSRmkXUsDMRMir7RaN.dhjM4QDLygzN0czW}
+
+## Challenge 6
+* created two files named 'pwn' and 'college' in '/tmp'
+* executed 'run' program in 'challenge' directory
+* got the flag
+* pwn.college{kiOV9QnlS2omEbI9LvGh9lhiTNt.dBzM4QDLygzN0czW}
+
+
+
+
+
+
+
 
 
 
