@@ -1,1 +1,37 @@
+# Module 3:Comprehending Commands
+## Challenge 1
+* connected ssh key to the pwn college
+* the flag was copied to home directory
+* executed the cat flag program
+* got the flag
+* pwn.college{ARM0R2W9kg26h1wJ_fb6VMHM5sR.dFzN1QDLygzN0czW}
+
+## Challenge 2
+* connected ssh key to the pwn college
+* the flag is in /flag where the flag always lives in pwn.college
+* executedthe cat command with absolute path /flag
+* got the flag
+* pwn.college{k5e0Ymrp-PEfgBZYZGVHGEl6Q6z.dlTM5QDLygzN0czW}
+
+## Challenge 3
+* connected ssh key to the pwn college
+* could not use 'cd' command to enter the directory
+* read the flag in the provided location
+* used 'cat' along with the absolute path where flag was stored
+* got the flag
+* pwn.college{sPQGa4C-dqX4oxNcXbkXwNGQrjV.dBjM5QDLygzN0czW}
+
+## Challenge 4
+* connected ssh key to the pwn college
+* learnt the use of grep command 
+* here there were hundred thousand lines of text into the /challenge/data.txt
+* used grep command to search the line which starts with 'pwn.college'
+* got the flag
+* pwn.college{kaTK_Dc-lI2TawOwx9EfjtqW7OQ.ddTM4QDLygzN0czW}
+
+
+
+
+
+
 
